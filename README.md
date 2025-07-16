@@ -74,7 +74,7 @@ A minimal sticky notes web app built with TypeScript, Express, MongoDB, and EJS 
 
 ---
 
-📷 Screenshots
+## 📷 Screenshots
 
 ![server images](images/stickynotes1.png)
 ![server images](images/stickynotes2.png)
